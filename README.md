@@ -27,7 +27,7 @@ Hello! I’m **Tripti Goyal**, a passionate developer with a focus on Python, Da
 
 Feel free to browse through my repositories and explore the code. I am always open to collaborating on exciting projects. Don’t hesitate to reach out if you have any questions or just want to connect!
 
-- [LinkedIn](https://www.linkedin.com/in/triptie-goyal/))
+- [LinkedIn](https://www.linkedin.com/in/triptie-goyal/)
 - [Portfolio Website](https://www.datascienceportfol.io/Tggtripti)
 
 ## License
